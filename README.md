@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&text=MinsuKang🌱&fontAlign=70&fontAlignY=40&section=header)
 
 <h3 align="center">👋 Hi there 👋</h3>
-<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br> So I try to keep 1 commit per day. 🔭<br> Someday I will work for Amazon. Wait for me, Amazon. plz 💕 </h5>
+<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br> So I try to keep 1 commit per day. 🔭<br> Someday I will work for Facebook. Wait for me, Facebook. plz 💕 </h5>
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 
 <p align="center">
