@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=header)
 
 <h3 align="center">👋 Hi there 👋</h3>
-<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br/> So I try to keep 1 commit per day. 🔭<br/> Someday I will work for Facebook. Wait for me, Facebook. plz 💕 </h5><br/>
+<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br/>
+  So I try to keep 1 commit per day. 🔭<br/>
+  Someday I will work for Facebook. Wait for me, Facebook. plz 💕 </h5><br/>
+  
 <h3 align="center">⚡ Tech Stack ⚡</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDsl-1976D2?style=flat-square&logo=QIWI&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/> 
 <br>
