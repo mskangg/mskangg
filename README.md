@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
 
+![mskangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskangg&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mskangg&repo=I'm a night)](https://gist.github.com/mskangg/d274fe5b957e33c821531014c8b48d6f)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlign=70&fontAlignY=40&section=footer)
