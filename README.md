@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
 
-<br/>
-
-
-![mskangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskangg&count_private=true&show_icons=true&theme=tokyonight)
+<!--![mskangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskangg&count_private=true&show_icons=true&theme=tokyonight)-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=footer)
