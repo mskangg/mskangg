@@ -1,22 +1,7 @@
-<!--
-**mskangg/mskangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&text=MinsuKang🌱&fontAlign=70&fontAlignY=40&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=header)
 
 <h3 align="center">👋 Hi there 👋</h3>
-<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br> So I try to keep 1 commit per day. 🔭<br> Someday I will work for Facebook. Wait for me, Facebook. plz 💕 </h5>
+<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br/> So I try to keep 1 commit per day. 🔭<br/> Someday I will work for Facebook. Wait for me, Facebook. plz 💕 </h5><br/>
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 
 <p align="center">
@@ -29,6 +14,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
 
+<br/>
+
+
 ![mskangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskangg&count_private=true&show_icons=true&theme=tokyonight)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlign=70&fontAlignY=40&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=footer)
