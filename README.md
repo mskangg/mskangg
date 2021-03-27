@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ![mskangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskangg&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mskangg&repo=I'm a night)](https://gist.github.com/mskangg/d274fe5b957e33c821531014c8b48d6f)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mskangg&repo=I'm a night 🦉)](https://gist.github.com/mskangg/d274fe5b957e33c821531014c8b48d6f)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlign=70&fontAlignY=40&section=footer)
