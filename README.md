@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=header)
 
 <h3 align="center">👋 Hi there 👋</h3>
-<h5 align="center">I'm Minsu Kang, a growing back-end developer. 🌱<br/>
-  So I try to keep 1 commit per day. 🔭<br/>
-  Someday I will be a great senior developer. Watch me grow! 🚀</h5><br/>
   
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
