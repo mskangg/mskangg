@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&fontAlign=70&fontAlignY=40&section=header)
-
-<h3 align="center">👋 Hi there 👋</h3>
   
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
